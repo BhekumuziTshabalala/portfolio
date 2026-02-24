@@ -1,0 +1,1 @@
+It's currently a ghost town, but over the next few months, I plan to make significant changes to this site. This will be a vanilla site... none of that fancy React or the new frameworks that just popped up as you read this. Since you're here now, I hope you come back to see what I've done. Anyway, hello!
